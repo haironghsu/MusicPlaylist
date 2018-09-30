@@ -3,7 +3,7 @@ Simple Music Playlist written in C++
 
 Designed Features
 
-- Add songson a track
+- Add songs on a track
 - Create a music list
 - Add songs on the music list
 - Delete songs from the list
